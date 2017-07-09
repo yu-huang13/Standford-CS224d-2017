@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.png
+*.txt
+*.npy
+assignment1/assignment1/utils/datasets
