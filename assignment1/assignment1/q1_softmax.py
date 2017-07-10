@@ -87,5 +87,6 @@ def test_softmax():
 
 
 if __name__ == "__main__":
+    print softmax(np.array([[1001,1002, 1003],[3,4,5]]))
     test_softmax_basic()
     test_softmax()
